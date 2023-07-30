@@ -20,7 +20,7 @@ a{
   border-radius:unset;
 }
 .navigation-list-items { column-gap: 20px; }
-.navigation-parent { background: #0B1437; }
+.navigation-parent { background: #1181c3; }
 .navigation-child { height: 100px; }
 .navigation-list-items li a { font-size: 10pt; font-weight: 700; }
 @media screen and (max-width: 768px) {
